@@ -1,0 +1,3 @@
+1,bv Gò Vấp,21/02/2021,null,null,SE150934,Covid-V001
+2,bv Thống Nhất,13/05/2021,null,null,SE151109,Covid-V002
+3,bv Bình Thạnh,09/03/2021,bv Nhân Sinh,09/05/2021,SE151170,Covid-V003

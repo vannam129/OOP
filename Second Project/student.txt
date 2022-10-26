@@ -1,0 +1,10 @@
+SE151025,Minh Sơn,0
+SE151109,Đức Tiến,1
+SE151395,Văn Nam,0
+SE151137,Quang Trung,0
+SE151183,Hạ Vũ,0
+SE151256,Hưng Phát,0
+SE150934,Trọng Nghĩa,1
+SE150790,Chí Hùnng,0
+SE151125,Minh Thanh,0
+SE151170,Thanh Tỷ,2
